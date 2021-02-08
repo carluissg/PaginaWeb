@@ -4,7 +4,7 @@ html {
 }
 body {
   font-family: Times New Roman;
-  margin: 0.5;
+  margin: 0.5px;
   font-size: medium;
   text-align: center;
 }
@@ -22,7 +22,7 @@ p {
   font-style: italic;
   color: #050b29;
   font-size: 18px;
-  line-height: 1cm;
+  line-height: 30px;
 }
 h1 {
   font-size: 42px;
