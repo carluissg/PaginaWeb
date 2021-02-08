@@ -19,9 +19,9 @@ ul {
   color: rgb(48, 17, 3);
 }
 p {
-  font-style: italic;
-  color: #050b29;
-  font-size: 18px;
+  font-style: normal;
+  color: #000000;
+  font-size: 20px;
   line-height: 30px;
 }
 h1 {
