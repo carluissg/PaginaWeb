@@ -1,0 +1,38 @@
+html {
+  background-image: url("colorido.jpg");
+  background-repeat: repeat;
+}
+body {
+  font-family: Times New Roman;
+  margin: 0.5;
+  font-size: medium;
+  text-align: center;
+}
+ol {
+    list-style-type: none;
+    font-size: 18px;
+    color: rgb(48, 17, 3);
+}
+ul {
+  list-style-type: none;
+  font-size: 18px;
+  color: rgb(48, 17, 3);
+}
+p {
+  font-style: italic;
+  color: #050b29;
+  font-size: 18px;
+  line-height: 1cm;
+}
+h1 {
+  font-size: 42px;
+  color: green;
+}
+h2 {
+  font-size: 36px;
+  color: rgb(206, 65, 14);
+}
+h3 {
+  font-size: 26px;
+  color: rgb(11, 87, 87);
+}
